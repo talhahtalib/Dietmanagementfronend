@@ -19,7 +19,7 @@ function HomePage() {
         </section>
       </main>
       <div className="img">
-        <img src="asset\diet mng.avif" alt="" />
+        <img src="https://img.freepik.com/free-photo/top-view-food-banquet_23-2149893486.jpg?w=360&t=st=1693730698~exp=1693731298~hmac=d9fc44f2ee6cd48975f9d0ba4205a2e9de884b4cfef523daa4a46794cf787bcb" alt="" />
       </div>
       
     </div>
